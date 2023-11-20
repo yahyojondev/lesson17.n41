@@ -1,0 +1,32 @@
+@media(min-width:1000px) {
+    .map__bottom__imgs {
+        display: flex;
+    }
+
+    .subscribe__cards {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .features__left__img {
+        max-width: 508.12px;
+    }
+
+    .home__right__img {
+        width: 611.241px;
+    }
+
+    .navbar__center__list {
+        display: flex;
+    }
+
+    .navbar__right__list {
+        display: flex;
+    }
+
+    .menu__btn {
+        display: none;
+    }
+
+}

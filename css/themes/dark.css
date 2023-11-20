@@ -1,0 +1,23 @@
+
+.dark {
+    background-color: black;
+}
+
+.dark :is(#plan, footer, .cards, .plan__card, .carousel__card, header) {
+    background-color: black;
+}
+
+.dark * {
+    color: white !important;
+}
+
+.dark :is(.home__title, span) {
+    color: white;
+}
+#mode-btn img {
+    width: 40px;
+}
+
+#mode-btn {
+    background-color: transparent;
+}
